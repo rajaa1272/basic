@@ -5,7 +5,7 @@ public class basic{
 
         
 
-        System.out.println("this is a java file ");
+        System.out.println("java file ");
 
     }
 }
