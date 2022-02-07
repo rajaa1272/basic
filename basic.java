@@ -5,7 +5,7 @@ public class basic{
 
         
 
-        System.out.println("java file initial");
+        System.out.println("this is a java file ");
 
     }
 }
